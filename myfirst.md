@@ -1,0 +1,1 @@
+# Manual of working in git #
