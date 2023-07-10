@@ -5,3 +5,7 @@
 ~~prepare repo~~
 
 *for creating  create hiden folder*
+
+~~Git Add~~
+
+### For add changes in commit
