@@ -23,4 +23,6 @@
 
 Torvalds sarcastically quipped about the name git (which means "unpleasant person" in British English slang): "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."[25][26] The man page describes Git as "the stupid content tracker".[27] The read-me file of the source code elaborates further:[28] 
 
-![Alt text](OysNKuToQk0J1vNU-TXUwA-1.jpeg)
+![Witcher][def]
+
+[def]: OysNKuToQk0J1vNU-TXUwA-1.jpeg
